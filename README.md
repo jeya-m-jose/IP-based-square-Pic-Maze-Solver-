@@ -11,14 +11,14 @@ The python code gives the solved location coordinates as the output which is sen
 </p>
 
 <p align="center">
-  <img src="images/maze07.png" width="300"/>
+  <img src="images/maze07.jpg" width="300"/>
 </p>
 
 
 The bot is equipped with a camera and is programmed to follow a laser light that is shown along the path of the solved points. The laser part is done using a 3-DOF arm. Depending on the x and y corrdinates , it is programmed to move and light up the particular coordinate in real time. The bot thus follows the laser to solve the maze.
 
 <p align="center">
-  <img src="images/mazecoord.png" width="300"/>
+  <img src="images/mazesolve_coord.png" width="300"/>
 </p>
 
 
@@ -28,7 +28,7 @@ The arm is made using metal blocks and has 3 servo motors, out of which 2 are to
 
 
 <p align="center">
-  <img src="images/mazecoord.png" width="300"/>
+  <img src="images/eyantra3dof.png" width="300"/>
 </p>
 
 
