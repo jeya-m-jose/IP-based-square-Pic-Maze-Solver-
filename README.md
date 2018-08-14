@@ -7,7 +7,7 @@ Code for finding the shortest path from the centre to the exit of a square or pi
 The python code gives the solved location coordinates as the output which is sent via hotspot to a bot that uses these coordinates to solve the maze in realtime.
 
 <p align="center">
-  <img src="images/img_07.png" width="300"/>
+  <img src="images/image_07.jpg" width="300"/>
 </p>
 
 <p align="center">
