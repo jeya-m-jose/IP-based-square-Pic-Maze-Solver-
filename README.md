@@ -17,13 +17,20 @@ The python code gives the solved location coordinates as the output which is sen
 
 The bot is equipped with a camera and is programmed to follow a laser light that is shown along the path of the solved points. The laser part is done using a 3-DOF arm. Depending on the x and y corrdinates , it is programmed to move and light up the particular coordinate in real time. The bot thus follows the laser to solve the maze.
 
+<p align="center">
+  <img src="images/mazecoord.png" width="300"/>
+</p>
+
+
 ## Path guider 3 DOF arm 
 
 The arm is made using metal blocks and has 3 servo motors, out of which 2 are to control the rotation angle in x axis, rotation angle in y axis and another to rotate the laser across 360 degrees. As the servo control is only for 180 degrees, the base servo and the top servo act as a couple to achieve the 360 degree rotation for the laser beam. The arm is coded using Arduino IDE.
 
+
 <p align="center">
-  <img src="images/maze07.png" width="300"/>
+  <img src="images/mazecoord.png" width="300"/>
 </p>
+
 
 
 ## Laser Following Bot
