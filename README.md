@@ -40,4 +40,4 @@ The Laser Following Bot is equipped with a camera and a Pi which is coded using 
 
 ## Recognition
 
-This work secured us the spot of finalists for Eyantra -2016-2017.( i.e Top 32 in the 3000 participating teams)
+This work secured us Completion Certificate and the spot of finalists for Eyantra -2016-2017.( i.e Top 32 in the 3000 participating teams)
